@@ -7,3 +7,4 @@ venv
 groq_api_key.txt
 README.MD
 xlmr_params.pkl
+.gitignore
