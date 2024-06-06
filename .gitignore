@@ -1,0 +1,9 @@
+venv/*
+.env
+__pycache__/*
+Models/*
+myvenv/*
+venv
+groq_api_key.txt
+README.MD
+xlmr_params.pkl
