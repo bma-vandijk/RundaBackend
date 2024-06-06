@@ -30,4 +30,6 @@ Get started and:
     ```
 
 
-Mail b.m.a.van.dijk@liacs.leidenuniv.nl or b.m.a.van_dijk@lumc.nl for the link to the Runda pickle that you also need.
+Mail b.m.a.van.dijk@liacs.leidenuniv.nl or b.m.a.van_dijk@lumc.nl for the link to the Runda pickle that you also need. 
+
+Credits for main code to <https://github.com/WongDaDa/AOAO/tree/main>, credits for adding the LLM chat component to LUdev group from Thalia Nanhekhan, Mirza Kuraesin and collaborators. A link to their version of the Welzijn.AI app that includes the Runda model, will be added later.    
